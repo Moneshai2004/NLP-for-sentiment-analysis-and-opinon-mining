@@ -1,0 +1,11 @@
+body,Positive,Negative,Neutral,Compound,Sentiment,Processed_Text
+This video is amazing! I learned so much.,0.405,0.0,0.595,0.6239,Positive,video amazing learned much
+I didn't find this helpful at all. The explanation was too vague.,0.238,0.103,0.659,0.431,Positive,didnt find helpful explanation vague
+Great tutorial! Very clear and easy to follow.,0.676,0.0,0.324,0.8872,Positive,great tutorial clear easy follow
+"Could have been better, but still decent.",0.245,0.0,0.755,0.2382,Positive,could better still decent
+"Absolutely terrible, I wouldn't recommend it.",0.0,0.658,0.342,-0.6972,Negative,absolutely terrible wouldnt recommend
+"Informative content, but the pacing was too slow.",0.0,0.0,1.0,0.0,Neutral,informative content pacing slow
+Fantastic! I will definitely share this with my friends.,0.748,0.0,0.252,0.8977,Positive,fantastic definitely share friends
+"Not bad, but I expected more details.",0.278,0.0,0.722,0.2323,Positive,bad expected details
+"I loved the visuals in this video, they were very engaging!",0.463,0.0,0.537,0.7836,Positive,loved visuals video engaging
+The speaker could have been more enthusiastic.,0.368,0.0,0.632,0.5413,Positive,speaker could enthusiastic
